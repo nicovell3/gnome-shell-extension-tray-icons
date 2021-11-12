@@ -1,14 +1,15 @@
 {
-  "uuid": "tray-icons@zhangkaizhao.com",
+  "uuid": "tray-icons@nicovell3",
   "name": "Tray Icons",
   "description": "Tray icons",
-  "url": "https://github.com/zhangkaizhao/gnome-shell-extension-tray-icons",
+  "url": "https://github.com/nicovell3/gnome-shell-extension-tray-icons",
   "shell-version": [
     "3.30",
     "3.32.2",
     "3.34",
     "3.36",
     "3.38",
-    "40"
+    "40",
+    "41"
   ]
 }
